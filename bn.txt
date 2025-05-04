@@ -1,2 +1,6 @@
 boring sunday
+<<<<<<< HEAD
 hi how r u
+=======
+this is not good
+>>>>>>> 807e18f393780210bbcc34dd4589c5a38eca27b9
